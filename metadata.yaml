@@ -1,0 +1,26 @@
+_repo: Travels-and-adventures-in-South-and-Central-America-First-series-Life-in-the-Llanos-of-Venezu__52612
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Páez, Ramón
+    alias: Paez, Ramon
+    gutenberg_agent_id: '46955'
+    url: http://www.gutenberg.org/2009/agents/46955
+description: ''
+gutenberg_issued: '2016-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52612'
+  lccn: 01022098
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Llanos (Colombia and Venezuela) -- Description and travel'
+- !lcc 'F2301'
+- !lcsh 'Venezuela -- Description and travel'
+- GITenberg
+title: "Travels and adventures in South and Central America. First series\r\nLife\
+  \ in the Llanos of Venezuela"
+url: http://www.gutenberg.org/ebooks/52612
